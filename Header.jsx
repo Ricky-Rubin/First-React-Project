@@ -3,7 +3,7 @@
 function Header() {
     return (
       <header className='header'>
-        <img src={`${import.meta.env.BASE_URL}react-logo.png`} width="40px" alt="react logo"/>
+        <img src={/First-React-Project/react-logo.png} width="40px" alt="react logo"/>
         <nav>
           <ul className='list'>
             <li>Pricing</li>
